@@ -1,0 +1,3 @@
+Nuevo archivo que se guarda en rama 2
+
+Este cambio sólo está en rama 3
